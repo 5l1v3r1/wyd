@@ -1,0 +1,6 @@
+* Output words are not unique
+  - This is a design "flaw" as words are written to
+    ouput / file streaming to increase speed and reduce
+    needed memory.
+  + Just use "uniq" or "sort -u" on final wordlist to
+    get rid of duplicate entries

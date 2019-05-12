@@ -1,0 +1,8 @@
++ 0.2
+  - New Plugins for: JPEG, ODT
+  - '-n' switch to disable modules-abort check
+  - Fixed bug in HTML which resulted in no words
+    being extracted
+
++ 0.1
+  - Initial Release
